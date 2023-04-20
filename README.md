@@ -8,3 +8,6 @@
 Одоогоор Хиймэл оюун ухааны чиглэлээр явах хүсэлтэй.😁👍
 
 Skills: HTML/JS/CSS(poor)/C++/Python/C#
+
+OpenGL suraltsaj ehlev
+
