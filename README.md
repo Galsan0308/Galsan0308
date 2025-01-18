@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋! My name is Galsantseren, from Mongolia</h1>
-<code>
-{
+<code>{
   Age : 18,
   Height : 175cm,
   Weight: 80kg,
