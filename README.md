@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋! My name is Galsantseren, from Mongolia</h1>
-
 <code>
 {
   Age : 18,
