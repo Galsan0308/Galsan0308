@@ -27,6 +27,6 @@
 ###
 <h2>Status</h2>
 
-👩‍💻 I'm currently working on...
-📖 I'm currently learning on Cyber Security, 3D Game Development
+👩‍💻 I'm currently working on... <br />
+📖 I'm currently learning on Cyber Security, 3D Game Development <br />
 👨‍🎓 I'm currently studying for a bachelor at the National university of Mongolia
