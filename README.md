@@ -5,6 +5,7 @@
   Weight: 80kg,
   High school: "Humuun complex",
   University: "National university of Mongolia",
+  Degrees: "Bachelor(1st year)",
   Job: "..."
 }
 </code>
@@ -22,6 +23,9 @@
 <img align="left" alt"Cplusplus" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 
 ###
+
 <h2>Status</h2>
 
 👩‍💻 I'm currently working on...
+📖 I'm currently learning on Cyber Security, 3D Game Development
+👨‍🎓 I'm currently studying for a bachelor at the National university of Mongolia
