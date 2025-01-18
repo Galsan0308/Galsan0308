@@ -1,4 +1,4 @@
-<img src="" />
+<img src="https://github.com/Galsan0308/Galsan0308/blob/a0894518046528b257c426d20436b29b4bee89a3/OIP.jpg" />
 <h1 align="left">Hi 👋! My name is Galsantseren, from Mongolia</h1>
 <code>{
   Age : 18,
