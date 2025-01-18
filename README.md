@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋! My name is Galsantseren, from Mongolia</h1>
 
+<code>
 {
   Age : 18,
   Height : 175cm,
@@ -8,6 +9,7 @@
   University: "National university of Mongolia",
   Job: "..."
 }
+</code>
 ###
 
 <h2>🎮 Languages and Tools</h2>
