@@ -1,12 +1,12 @@
 <img src="https://github.com/Galsan0308/Galsan0308/blob/a0894518046528b257c426d20436b29b4bee89a3/OIP.jpg" />
 <h1 align="left">Hi 👋! My name is Galsantseren, from Mongolia</h1>
 <code>{
-  Age : 18,
+  Age : 19,
   Height : 175cm,
   Weight: 80kg,
   High school: "Humuun complex",
   University: "National university of Mongolia",
-  Degrees: "Bachelor(1st year)",
+  Degrees: "Bachelor(2nd year)",
   Job: "..."
 }
 </code>
@@ -28,5 +28,5 @@
 <h2>Status</h2>
 
 👩‍💻 I'm currently working on... <br />
-📖 I'm currently learning on Cyber Security, 3D Game Development <br />
+📖 I'm currently learning AI, 3D Game Development <br />
 👨‍🎓 I'm currently studying for a bachelor at the National university of Mongolia
